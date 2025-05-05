@@ -1,12 +1,3 @@
-n=15
-b=17
-print(n,b,sep=",")
-
-b=11
-c=56
-m=b*c
-print(m)
-
 import pandas as pd
 
 data = {'Name': ['Anna', 'Ben', None, 'Daisy', None],
